@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">paharadar</string>
+    <string name="title_home">ডিউটি</string>
+    <string name="title_dashboard">সহকর্মী</string>
+    <string name="title_notifications">এলার্ট</string>
+    <string name="log_in">Log In</string>
+
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="forgot_password">পাসওয়ার্ড ভুলে গিয়েছেন!!!?</string>
+    <string name="dont_t_have_an_account">Dont\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+
+    //Registration strings
+    <string name="fullname">পুরো নাম</string>
+    <string name="phone">ফোন নম্বর</string>
+    <string name="email">ইমেইল এড্রেস</string>
+    <string name="signup">Sign up</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_gurd_maps">Map</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+</resources>
